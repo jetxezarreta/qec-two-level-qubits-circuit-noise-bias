@@ -93,10 +93,10 @@ Please cite the following article if you use our circuits or our findings:
     author = "{Etxezarreta Martinez}, Josu and {Schnabl}, Paul and {Oliva del Moral}, Javier and {Dastbasteh}, Reza and {Crespo} Pedro M. and {Otxoa}, Ruben M.",
     title = "{Leveraging biased noise for more efficient quantum error correction at the circuit-level with two-level qubits}",
     journal = {arXiv},
-    pages = {},
+    pages = {2505.17718},
     archivePrefix = "arXiv",
     primaryClass = "quant-ph",
-    month = ,
+    month = may,
     year = {2025},
-    url ={}
+    url ={https://arxiv.org/abs/2505.17718}
 }
